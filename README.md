@@ -1,4 +1,5 @@
-# navigation
+# NAVIGATION
+by Alvaro U Bravo
 
 Navigation nodes used for Donaxi a service robot made by UPAEP for the @Home competition.
 
