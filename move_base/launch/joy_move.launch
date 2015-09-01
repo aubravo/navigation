@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="joy" type="joy_node" name="joystick_publish" />
+	<node pkg="joy_translate" type="joy_translate" name="joystick_translate" />
+	<node pkg="move_base" type="move_base_node.py" name="move_base" />
+</launch>
